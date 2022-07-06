@@ -1,5 +1,5 @@
 # For users
-Just download the minimilitia-generator-bot.py file and run it
+Just download the minimilitia-map-generator.py file and run it
 (if double clicking fails, use cmd or your own text editor)
 
 # For editors
